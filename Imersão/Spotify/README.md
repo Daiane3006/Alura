@@ -30,3 +30,17 @@ Além disso, foram abordados princípios fundamentais de responsividade, garanti
 
 ![alt text](./src/readme/foto-3.png)
 
+<h3>Aula 04: CSS GRID, MEDIA QUERIES E MANIPULAÇÃO DO DOM COM JAVASCRIPT</h3>
+
+📅 Data: 30/01
+
+Na quarta aula, aconteceu a criação dos cards da página inicial, explorando o uso de media queries para tornar o layout responsivo. Também se aprofundou nos conhecimentos em CSS Grid, facilitando a organização dos elementos na página. Além disso, teve uma introdução ao JavaScript, abordando o conceito de DOM (Document Object Model) e o método Promises, essencial para lidar com operações assíncronas.
+
+![alt text](./src/readme/foto-4.png)
+
+
+<h3>Aula 05: FRAMEWORKS E EFICIÊNCIA: INTRODUÇÃO AO REACT E ANGULAR</h3>
+
+📅 Data: 31/01
+
+Na quinta aula, teve como foco a introdução ao framework JavaScript React, sendo aplicado ao projeto para recriar o componente Header. Foi aprendido os conceitos fundamentais do React, incluindo sua estrutura e sintaxe, foi explorado a como utilizá-lo de forma eficiente no desenvolvimento. Ao final, o componente Header foi recriado dentro do projeto, aplicando na prática os conhecimentos adquiridos sobre React.
